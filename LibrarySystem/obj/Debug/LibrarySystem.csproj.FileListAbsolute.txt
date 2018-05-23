@@ -1,0 +1,6 @@
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\bin\Debug\LibrarySystem.exe
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\bin\Debug\LibrarySystem.pdb
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\obj\Debug\LibrarySystem.exe
+c:\users\sherlock-ut\documents\visual studio 2017\Projects\LibrarySystem\obj\Debug\LibrarySystem.pdb
